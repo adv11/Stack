@@ -10,4 +10,4 @@ Problems Covered:
 > 7) Next smaller element to the left
 > 8) Next smaller element to the right
 > 9) Reverse String using stack
-> 10 Stock Span problem (Leetcode : https://leetcode.com/problems/online-stock-span/)
+> 10) Stock Span problem (Leetcode : https://leetcode.com/problems/online-stock-span/)
